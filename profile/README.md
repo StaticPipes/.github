@@ -9,4 +9,4 @@ If you are a python programmer and need something different, then write a python
 
 See:
 
-* https://github.com/StaticPipes/StaticPipes
+* https://github.com/TeacakeTech/staticpipes-core
